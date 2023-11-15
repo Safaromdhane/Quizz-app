@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quizz/quizz.iml" filepath="$PROJECT_DIR$/quizz/quizz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizz/android/quizz_android.iml" filepath="$PROJECT_DIR$/quizz/android/quizz_android.iml" />
+    </modules>
+  </component>
+</project>
